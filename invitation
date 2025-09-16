@@ -1,0 +1,28 @@
+<html>
+<head>
+  <title>Marriage Invitation</title>
+</head>
+<body>
+  <center>
+    <h1> Marriage Invitation </h1>
+    <h2>Ram & Jyothi</h2>
+    <p>We are delighted to invite you to the wedding celebration of</p>
+
+    <h3>Bride: <b> Jyothi</b></h3>
+    <h3>Groom: <b>Ram</b></h3>
+
+    <p><b>Date:</b> Wednesday, 1st October 2025</p>
+    <p><b>Time:</b> 6:00 PM onwards</p>
+    <p><b>Venue:</b> Green Garden Function Hall, Hyderabad</p>
+
+    <hr>
+
+    <p>
+      Kindly join us and bless the couple as they begin their new journey together.
+    </p>
+
+    <p>With love,<br>
+    Family & Friends</p>
+  </center>
+</body>
+</html>
